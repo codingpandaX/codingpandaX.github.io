@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://codingpandax.github.io/"/>
-  <updated>2019-11-20T17:10:09.566Z</updated>
+  <updated>2019-11-22T15:07:48.207Z</updated>
   <id>https://codingpandax.github.io/</id>
   
   <author>
@@ -17,57 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>md</title>
-    <link href="https://codingpandax.github.io/2019/11/21/md/"/>
-    <id>https://codingpandax.github.io/2019/11/21/md/</id>
-    <published>2019-11-20T17:03:34.000Z</published>
-    <updated>2019-11-20T17:10:09.566Z</updated>
+    <title>开篇</title>
+    <link href="https://codingpandax.github.io/2019/11/22/Hello-World/"/>
+    <id>https://codingpandax.github.io/2019/11/22/Hello-World/</id>
+    <published>2019-11-22T14:30:11.000Z</published>
+    <updated>2019-11-22T15:07:48.207Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>swift</title>
-    <link href="https://codingpandax.github.io/2019/11/21/swift/"/>
-    <id>https://codingpandax.github.io/2019/11/21/swift/</id>
-    <published>2019-11-20T16:52:24.000Z</published>
-    <updated>2019-11-20T16:52:46.918Z</updated>
-    
-    <content type="html"><![CDATA[<p>Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS. Swift is designed to work with Apple’s Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.</p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>人类的智慧就如同孔雀的羽毛,极尽炫耀只是为了吸引异性。所有的艺术和文字作品,比如莫扎特,莎士比亚,米开朗基罗还有帝国大厦，都是精心策划的求偶仪式。也许这都无所谓。我们用最基本的动机，得到了数之不尽的收获。但是孔雀终究无法飞翔。</p></blockquote><p><img src="https://i.loli.net/2019/11/22/Oanhe21HLgt8xdq.jpg" alt="Westworld.jpg"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, 
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>新的开始</title>
-    <link href="https://codingpandax.github.io/2019/11/21/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
-    <id>https://codingpandax.github.io/2019/11/21/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</id>
-    <published>2019-11-20T16:46:21.000Z</published>
-    <updated>2019-11-20T16:47:17.855Z</updated>
-    
-    <content type="html"><![CDATA[<p>北国风光，千里冰封，万里雪飘。<br>望长城内外，惟馀莽莽；<br>大河上下，顿失滔滔。<br>山舞银蛇，原驰蜡象，欲与天公试比高。<br>须晴日，看红妆素裹，分外妖娆。</p><p>江山如此多娇，<br>引无数英雄竞折腰。<br>惜秦皇汉武，略输文采；<br>唐宗宋祖，稍逊风骚。<br>一代天骄，成吉思汗，只识弯弓射大雕。<br>俱往矣，数风流人物，还看今朝。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;北国风光，千里冰封，万里雪飘。&lt;br&gt;望长城内外，惟馀莽莽；&lt;br&gt;大河上下，顿失滔滔。&lt;br&gt;山舞银蛇，原驰蜡象，欲与天公试比高。&lt;br&gt;须晴日，看红妆素裹，分外妖娆。&lt;/p&gt;
-&lt;p&gt;江山如此多娇，&lt;br&gt;引无数英雄竞折腰。&lt;br&gt;惜秦皇汉武，略输文采；&lt;br&gt;唐宗宋祖，
+        &lt;blockquote&gt;
+&lt;p&gt;人类的智慧就如同孔雀的羽毛,极尽炫耀只是为了吸引异性。所有的艺术和文字作品,比如莫扎特,莎士比亚,米开朗基罗还有帝国大厦，都是精心策划的求偶仪式。也许这都无所谓。我们用最基本的动机，得到了数之不尽的收获。但是孔雀终究无法飞翔。&lt;/p&gt;
+&lt;/bloc
       
     
     </summary>
